@@ -1,0 +1,15 @@
+
+working of reverse function::
+
+
+reverse("Hello")
+(reverse("ello")) + "H"
+((reverse("llo")) + "e") + "H"
+(((reverse("lo")) + "l") + "e") + "H"
+((((reverse("o")) + "l") + "l") + "e") + "H"
+(((("o") + "l") + "l") + "e") + "H"
+"olleH"
+
+===============================================
+48+10+5
+
