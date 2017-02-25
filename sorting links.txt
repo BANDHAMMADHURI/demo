@@ -1,1 +1,28 @@
-http://stackoverflow.com/questions/30150030/sorting-an-arraylist-in-java-without-using-predefined-sort-method
+http://stackoverflow.com/questions/30150030/sorting-an-arraylist-in-java-without-using-predefined-sort-method 
+
+feb 3rd week: 11+5+67+45+25
+
+java realtime examples:
+1 :http://www.slideshare.net/ShridharRamesh/java-39062140
+
+2 :http://www.w3resource.com/java-tutorial/java-object-oriented-programming.php
+3 : http://opensourceforgeeks.blogspot.in/2014/01/difference-between-data-encapsulation.html
+
+Book link:
+
+C:\Users\Public\Documents\Audible\Downloads
+
+project :
+https://my.adaptiveu.io/engineering-training-university/challenges/all/build-a-consolebased-contacts-application
+
+game_server
+
+difference between strings and stringbuilder and string buffer
+1) http://javahungry.blogspot.com/2013/06/difference-between-string-stringbuilder.html
+
+differn=ences between versions :
+http://softwareengineering.stackexchange.com/questions/193630/summary-of-differences-between-java-versions
+
+
+Collections website :
+http://java.scjp.jobs4times.com/collections.htm
